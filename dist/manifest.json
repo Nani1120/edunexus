@@ -1,0 +1,17 @@
+{
+  "name": "EduNexus — All-in-One Education Super App",
+  "short_name": "EduNexus",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "description": "Everything you need to learn. All in one place. School, Intermediate, B.Tech, and Nursing education platform.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%234f46e5'><path d='M12 2L1 7l11 5 9-4.09V17h2V7L12 2zM3.45 10.82L12 14.7l8.55-3.88V14l-8.55 3.88L3.45 14v-3.18z'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
